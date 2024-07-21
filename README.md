@@ -4,5 +4,6 @@
 - 🤝 I’m looking to collaborate on simple websites for small to medium sized buisiness.
 - 📩 You can contact me by emailing me at abdinasirmuhsin@gmail.com
 - 🚹 Pronouns: He/him
-- ⚡ Fun fact: History is my faviorate 
+- ⚡ Fun fact: History is my faviorate subject.
+- My portfolio website: https://muhsin-abdinasir.github.io/Portfolio/
 
